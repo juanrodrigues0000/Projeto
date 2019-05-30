@@ -1,1 +1,7 @@
-#include<stdio.h>
+To clone in GitLab
+
+git@gitlab.benner.com.br:stag009/my-wawesom.git
+
+http 
+
+http://gitlab.benner.com.br/stag009/my-wawesom.git
