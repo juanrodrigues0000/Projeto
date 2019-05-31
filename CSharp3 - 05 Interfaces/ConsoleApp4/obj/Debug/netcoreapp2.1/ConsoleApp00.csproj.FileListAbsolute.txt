@@ -1,0 +1,11 @@
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp00.csprojAssemblyReference.cache
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp00.csproj.CoreCompileInputs.cache
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp00.AssemblyInfoInputs.cache
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp00.AssemblyInfo.cs
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp00.deps.json
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp00.runtimeconfig.json
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp00.runtimeconfig.dev.json
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp00.dll
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp00.pdb
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp00.dll
+C:\GIT\CSharp\04 - Herança Múltipla - Copia\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp00.pdb
