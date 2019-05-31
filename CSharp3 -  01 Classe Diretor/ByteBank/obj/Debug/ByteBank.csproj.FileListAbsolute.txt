@@ -1,0 +1,7 @@
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\bin\Debug\ByteBank.exe.config
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\bin\Debug\ByteBank.exe
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\bin\Debug\ByteBank.pdb
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\obj\Debug\ByteBank.exe
+C:\GIT\CSharp\CSharp3 -  01 Classe Diretor\ByteBank\obj\Debug\ByteBank.pdb
