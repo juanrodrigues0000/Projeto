@@ -1,0 +1,22 @@
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfo.cs
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.deps.json
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.json
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.dll
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.pdb
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.dll
+C:\Users\juanr\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.pdb
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.deps.json
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.json
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.dev.json
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.dll
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp11.pdb
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.csprojAssemblyReference.cache
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfoInputs.cache
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfo.cs
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.dll
+C:\GIT\CSharp\CSharp3 - 04  Herança Múltipla\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp11.pdb
